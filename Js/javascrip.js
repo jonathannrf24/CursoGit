@@ -1,8 +1,3 @@
-<html>
-<head>
-</head>
-<body>
-	hola como estan
-
-</body>
-</html>
+function saludo() {
+    alert("hola alumno");
+}
